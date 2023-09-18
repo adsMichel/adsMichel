@@ -9,7 +9,11 @@ I'm an adventurer, newbie full-stack developer, and content creator, showing my 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="#">
-    <img alt="Localização" title="Onde eu vivo." src="https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white"/></a>
+    <img alt="Localização" title="Meu lar" src="https://custom-icon-badges.demolab.com/badge/Brasília-BRA-green?style=for-the-badge&logo=location&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adsMichel?tab=repositories">
+    <img alt="Repositorio" title="Meu repositorio" src="https://custom-icon-badges.demolab.com/badge/Meu%20Repositorio-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </p>
 
 ---
