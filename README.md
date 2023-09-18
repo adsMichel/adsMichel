@@ -1,4 +1,4 @@
-# :mount_fuji: Mountain Knight
+# 🗻 Mountain Knight
 
 **`Digital Craftsman (Adventurer/Creator/Developer)`**
 
@@ -14,10 +14,18 @@ I'm an adventurer, newbie full-stack developer, and content creator, showing my 
   <a href="https://github.com/adsMichel?tab=repositories">
     <img alt="Repositorio" title="Meu repositorio" src="https://custom-icon-badges.demolab.com/badge/Meu%20Repositorio-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
+    <a href="https://github.com/adsMichel?tab=repositories">
+    <img alt="Repositorio" title="Meu repositorio" src="https://custom-icon-badges.demolab.com/badge/Stars-yellow?style=for-the-badge&logoColor=white&logo=star"/>
+  </a>
 </p>
 
 ---
-:accessibility:
+💻 Linguagens e Frameworks
+
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <!--
 **adsMichel/adsMichel** is a :accessibility: _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
